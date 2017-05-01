@@ -19,7 +19,7 @@
 * [Uninstalling Nylas Mail](216837327-uninstalling-nylas-mail.md)
 
 
-## Troubleshooting]
+## Troubleshooting
 * [I'm getting a Password Management Error](223790028-im-getting-a-password-management-error.md )
 * [Why does Nylas Mail store mail data?](206506058-why-does-nylas-mail-store-mail-data.md)
 * [I'm getting an error about too many connected ActiveSync devices](217183258-im-getting-an-error-about-too-many-connected-activesync-devices.md)
@@ -38,6 +38,16 @@
 ## Tracking and Notifications
 
 ## Nylas Pro
+
+* [Running Nylas Mail and Nylas Pro at the same time](115001474608-running-nylas-mail-and-nylas-pro-at-the-same-time.md    )
+* [PGP Nylas Mail Plugin: Getting Started Guide](  220932947-pgp-nylas-mail-plugin-getting-started-guide.md )
+* [Snoozing messages](221042927-snoozing-messages.md)
+* [Scheduling messages to send later](221036808-scheduling-messages-to-send-later.md)
+* [Using mail merge to send customized mass emails](220979428-using-mail-merge-to-send-customized-mass-emails.md)
+* [Scheduling meetings and events](221042947-scheduling-meetings-and-events.md)
+* [Managing your inbox with mail rules](220979468-managing-your-inbox-with-mail-rules.md)
+* [Permanently deleting your data from the Nylas cloud](217949998-permanently-deleting-your-data-from-the-nylas-cloud.md)
+
 
 ## Salesforce Plugin
 
