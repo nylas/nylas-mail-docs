@@ -1,7 +1,6 @@
 # Summary
 
 # Account Basics
-
 * [Security and Privacy](security-and-privacy.md)
 * [Customizing Nylas Mail](customizing-nylas-mail.md)
 * [Aliases](221043827-aliases.md)
