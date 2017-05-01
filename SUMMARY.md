@@ -1,22 +1,23 @@
 # Summary
 
-# Account Basics
+## Account Basics
+
 * [Security and Privacy](security-and-privacy.md)
 * [Customizing Nylas Mail](customizing-nylas-mail.md)
 * [Aliases](221043827-aliases.md)
 
-# Troubleshooting
+## Troubleshooting
 
-# Subscriptions
+## Subscriptions
 
-# Getting Started
+## Getting Started
 
-# Receiving and Sending Messages
+## Receiving and Sending Messages
 
-# Tracking and Notifications
+## Tracking and Notifications
 
-# Nylas Pro
+## Nylas Pro
 
-# Salesforce Plugin
+## Salesforce Plugin
 
-# Frequently Asked Questions
+## Frequently Asked Questions
