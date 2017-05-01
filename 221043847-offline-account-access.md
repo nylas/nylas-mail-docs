@@ -10,7 +10,7 @@ Your ability to see images and attachments while offline depends on how you’ve
 *   **When read** means you will only be able to view images and attachments you have previously opened if you go offline
 *   **Manually**
 
-![](208504547-attachment_handling.gif)
+![](./208504547-attachment_handling.gif)
 
 Messages you send while offline will be queued and sent when you reconnect to the internet.
 

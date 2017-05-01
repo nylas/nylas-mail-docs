@@ -4,7 +4,7 @@
 
 N1 comes pre-loaded with several common keyboard shortcut configurations. Go to Preferences > Shortcuts to change the set it uses.
 
-![](208505067-keyboard_shortcuts.png)
+![](./208505067-keyboard_shortcuts.png)
 
 If you want even more specific control over your keyboard shortcuts, you can edit a file that will override any defaults.
 
