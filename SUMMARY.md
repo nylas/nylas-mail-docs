@@ -82,4 +82,11 @@
 
 ## Salesforce Plugin
 
+* [What does the Nylas + Salesforce plugin do?](./the_nylas_salesforce_plugin/227903127-what-does-the-nylas--salesforce-plugin-do.md)
+* [What data we get access to & how we use it](./the_nylas_salesforce_plugin/227903107-what-data-we-get-access-to--how-we-use-it.md)
+* [How we find existing Contact objects](./the_nylas_salesforce_plugin/228100988-how-we-find-existing-contact-objects.md)
+* [How we sync back Task & Email Message objects](./the_nylas_salesforce_plugin/228101068-how-we-sync-back-task--email-message-objects.md)
+
+
+
 ## Frequently Asked Questions
