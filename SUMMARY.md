@@ -57,7 +57,21 @@
 
 ## Receiving and Sending Messages
 
-
+* [Checking for new mail](./receiving_and_sending_messages/216119437-checking-for-new-mail.md)
+* [Creating new messages](./receiving_and_sending_messages/221044587-creating-new-messages.md)
+* [Replying to messages](./receiving_and_sending_messages/221044647-replying-to-messages.md)
+* [Formatting messages](./receiving_and_sending_messages/221044667-formatting-messages.md)
+* [Adding attachments](./receiving_and_sending_messages/221044687-adding-attachments.md)
+* [Using emoji](./receiving_and_sending_messages/221044707-using-emoji.md)
+* [Using spellcheck](./receiving_and_sending_messages/221044727-using-spellcheck.md)
+* [Translating messages](./receiving_and_sending_messages/220980548-translating-messages.md)
+* [Saving drafts](./receiving_and_sending_messages/221044787-saving-drafts.md)
+* [Moving messages](./receiving_and_sending_messages/220980588-moving-messages.md)
+* [Marking messages as spam](./receiving_and_sending_messages/217914288-marking-messages-as-spam.md)
+* [Archiving messages](./receiving_and_sending_messages/220980608-archiving-messages.md)
+* [Empty the trash or delete messages permanently](./receiving_and_sending_messages/218421997-empty-the-trash-or-delete-messages-permanently.md)
+* [Creating new folders or labels](./receiving_and_sending_messages/221044827-creating-new-folders-or-labels.md)
+* [Renaming folders or labels](./receiving_and_sending_messages/221044847-renaming-folders-or-labels.md)
 
 
 ## Tracking and Notifications
