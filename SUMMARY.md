@@ -32,6 +32,14 @@
 
 ## Subscriptions
 
+* [How do I create a Nylas ID?](./subscriptions/221038247-how-do-i-create-a-nylas-id.md)
+* [How is a Nylas ID different from my email address?](./subscriptions/220974588-how-is-a-nylas-id-different-from-my-email-address.md)
+* [How much does Nylas cost?](./subscriptions/207208887-how-much-does-nylas-cost.md)
+* [How do I cancel my Nylas Pro account?](./subscriptions/221038927-how-do-i-cancel-my-nylas-pro-account.md)
+* [How do I switch to monthly billing?](./subscriptions/220975328-how-do-i-switch-to-monthly-billing.md)
+* [Are my email accounts automatically linked to my Nylas ID?](./subscriptions/221038767-are-my-email-accounts-automatically-linked-to-my-nylas-id.md)
+
+
 ## Getting Started
 
 ## Receiving and Sending Messages
