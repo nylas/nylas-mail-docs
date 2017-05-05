@@ -42,6 +42,19 @@
 
 ## Getting Started
 
+* [Nylas Mail 2.0 Release FAQ](./getting_started/115005574208-nylas-mail-20-release-faq.md)
+* [Nylas Mail Quick Start Guide](./getting_started/220979128-nylas-mail-quick-start-guide.md)
+* [Custom Folder Mappings](./getting_started/custom-folder-mappings.md
+)
+* [Choose Nylas Mail as the default mail client on Windows](./getting_started/229277648-choose-nylas-mail-as-the-default-mail-client-on-windows.md)
+* [Tracking and notifications](./getting_started/221042967-tracking-and-notifications.md)
+* [Using quick reply templates](./getting_started/221043107-using-quick-reply-templates.md)
+* [Viewing enriched contact information and message history](./getting_started/220979168-viewing-enriched-contact-information-and-message-history.md)
+* [Creating signatures](./getting_started/220979348-creating-signatures.md)
+* [Customizing your preferences](./getting_started/220979488-customizing-your-preferences.md)
+* [Activating plugins](./getting_started/221043467-activating-plugins.md)
+
+
 ## Receiving and Sending Messages
 
 ## Tracking and Notifications
