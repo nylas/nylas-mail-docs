@@ -57,7 +57,16 @@
 
 ## Receiving and Sending Messages
 
+
+
+
 ## Tracking and Notifications
+
+* [How does Nylas perform Open Tracking?](./tracking_and_notifications/226411088-how-does-nylas-perform-open-tracking.md)
+* [Tracking links](./tracking_and_notifications/221026488-tracking-links.md)
+* [Tracking sent messages](./tracking_and_notifications/221086827-tracking-sent-messages.md)
+* [Configuring your notifications](./tracking_and_notifications/221026568-configuring-your-notifications.md)
+
 
 ## Nylas Pro
 
