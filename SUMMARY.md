@@ -9,7 +9,7 @@
 * [Setting up multiple accounts](./account_basics/221043647-setting-up-multiple-accounts.md)
 * [Resetting your Nylas ID password](./account_basics/227858548-resetting-your-nylas-id-password.md)
 * [Aliases](./account_basics/221043827-aliases.md)
-* [Offline account access](./account_basics/(221043847-offline-account-access.md)
+* \[Offline account access\]\(./account\_basics/\(221043847-offline-account-access.md\)
 * [Supported languages](./account_basics/216119337-supported-languages.md)
 * [Setting the spell check language](./account_basics/216123467-setting-the-spell-check-language.md)
 * [Customizing Nylas Mail](./account_basics/216119307-customizing-nylas-mail.md)
@@ -17,7 +17,6 @@
 * [Security and Privacy](./account_basics/216108867-security-and-privacy.md)
 * [Other support options](./account_basics/220979788-other-support-options.md)
 * [Uninstalling Nylas Mail](./account_basics/216837327-uninstalling-nylas-mail.md)
-
 
 ## Troubleshooting
 
@@ -29,7 +28,6 @@
 * [I'm getting "Invalid Credentials" when connecting a Windows Live Domains account](./troubleshooting/215684488-im-getting-invalid-credentials-when-connecting-a-windows-live-domains-account.md)
 * [I'm having a problem that isn't addressed here](./troubleshooting/220978888-im-having-a-problem-that-isnt-addressed-here.md)
 
-
 ## Subscriptions
 
 * [How do I create a Nylas ID?](./subscriptions/221038247-how-do-i-create-a-nylas-id.md)
@@ -39,13 +37,12 @@
 * [How do I switch to monthly billing?](./subscriptions/220975328-how-do-i-switch-to-monthly-billing.md)
 * [Are my email accounts automatically linked to my Nylas ID?](./subscriptions/221038767-are-my-email-accounts-automatically-linked-to-my-nylas-id.md)
 
-
 ## Getting Started
 
 * [Nylas Mail 2.0 Release FAQ](./getting_started/115005574208-nylas-mail-20-release-faq.md)
 * [Nylas Mail Quick Start Guide](./getting_started/220979128-nylas-mail-quick-start-guide.md)
-* [Custom Folder Mappings](./getting_started/custom-folder-mappings.md
-)
+* \[Custom Folder Mappings\]\(./getting\_started/custom-folder-mappings.md
+  \)
 * [Choose Nylas Mail as the default mail client on Windows](./getting_started/229277648-choose-nylas-mail-as-the-default-mail-client-on-windows.md)
 * [Tracking and notifications](./getting_started/221042967-tracking-and-notifications.md)
 * [Using quick reply templates](./getting_started/221043107-using-quick-reply-templates.md)
@@ -53,7 +50,6 @@
 * [Creating signatures](./getting_started/220979348-creating-signatures.md)
 * [Customizing your preferences](./getting_started/220979488-customizing-your-preferences.md)
 * [Activating plugins](./getting_started/221043467-activating-plugins.md)
-
 
 ## Receiving and Sending Messages
 
@@ -73,14 +69,12 @@
 * [Creating new folders or labels](./receiving_and_sending_messages/221044827-creating-new-folders-or-labels.md)
 * [Renaming folders or labels](./receiving_and_sending_messages/221044847-renaming-folders-or-labels.md)
 
-
 ## Tracking and Notifications
 
 * [How does Nylas perform Open Tracking?](./tracking_and_notifications/226411088-how-does-nylas-perform-open-tracking.md)
 * [Tracking links](./tracking_and_notifications/221026488-tracking-links.md)
 * [Tracking sent messages](./tracking_and_notifications/221086827-tracking-sent-messages.md)
 * [Configuring your notifications](./tracking_and_notifications/221026568-configuring-your-notifications.md)
-
 
 ## Nylas Pro
 
@@ -93,7 +87,6 @@
 * [Managing your inbox with mail rules](./nylas_pro/220979468-managing-your-inbox-with-mail-rules.md)
 * [Permanently deleting your data from the Nylas cloud](./nylas_pro/217949998-permanently-deleting-your-data-from-the-nylas-cloud.md)
 
-
 ## Salesforce Plugin
 
 * [What does the Nylas + Salesforce plugin do?](./the_nylas_salesforce_plugin/227903127-what-does-the-nylas--salesforce-plugin-do.md)
@@ -101,9 +94,7 @@
 * [How we find existing Contact objects](./the_nylas_salesforce_plugin/228100988-how-we-find-existing-contact-objects.md)
 * [How we sync back Task & Email Message objects](./the_nylas_salesforce_plugin/228101068-how-we-sync-back-task--email-message-objects.md)
 
-
-
-## Frequently Asked Questions
+## Misc
 
 * [How do I change my theme?](./misc/217557858-how-do-i-change-my-theme.md)
 * [My work email requires a VPN connection. Can I use it with Nylas Mail?](./misc/218410738-my-work-email-requires-a-vpn-connection-can-i-use-it-with-nylas-mail.md)
@@ -114,4 +105,6 @@
 * [Will Nylas Mail support "Categories" from Gmail or "Bundles" from Google Inbox?](./misc/216123037-will-nylas-mail-support-categories-from-gmail-or-bundles-from-google-inbox.md)
 * [How do I increase the font size in Nylas Mail?](./misc/219130788-how-do-i-increase-the-font-size-in-nylas-mail.md)
 * [Can I create or modify contacts through Nylas Mail?](./misc/216119397-can-i-create-or-modify-contacts-through-nylas-mail.md)
+
+
 
