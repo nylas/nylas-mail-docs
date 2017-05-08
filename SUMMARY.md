@@ -104,3 +104,14 @@
 
 
 ## Frequently Asked Questions
+
+* [How do I change my theme?](./misc/217557858-how-do-i-change-my-theme.md)
+* [My work email requires a VPN connection. Can I use it with Nylas Mail?](./misc/218410738-my-work-email-requires-a-vpn-connection-can-i-use-it-with-nylas-mail.md)
+* [When will Nylas Mail be available for iOS or Android?](./misc/216119047-when-will-nylas-mail-be-available-for-ios-or-android.md)
+* [How do I enable the "All Mail" folder?](./misc/217562277-how-do-i-enable-the-all-mail-folder.md)
+* [How do I enable IMAP for Google Apps?](./misc/217562387-how-do-i-enable-imap-for-google-apps.md)
+* [What are the limitations of IMAP / SMTP support?](./misc/216118977-what-are-the-limitations-of-imap--smtp-support.md)
+* [Will Nylas Mail support "Categories" from Gmail or "Bundles" from Google Inbox?](./misc/216123037-will-nylas-mail-support-categories-from-gmail-or-bundles-from-google-inbox.md)
+* [How do I increase the font size in Nylas Mail?](./misc/219130788-how-do-i-increase-the-font-size-in-nylas-mail.md)
+* [Can I create or modify contacts through Nylas Mail?](./misc/216119397-can-i-create-or-modify-contacts-through-nylas-mail.md)
+
