@@ -9,7 +9,7 @@
 * [Setting up multiple accounts](./account_basics/221043647-setting-up-multiple-accounts.md)
 * [Resetting your Nylas ID password](./account_basics/227858548-resetting-your-nylas-id-password.md)
 * [Aliases](./account_basics/221043827-aliases.md)
-* \[Offline account access\]\(./account\_basics/\(221043847-offline-account-access.md\)
+* [Offline account access](./account_basics/221043847-offline-account-access.md)
 * [Supported languages](./account_basics/216119337-supported-languages.md)
 * [Setting the spell check language](./account_basics/216123467-setting-the-spell-check-language.md)
 * [Customizing Nylas Mail](./account_basics/216119307-customizing-nylas-mail.md)
@@ -17,6 +17,7 @@
 * [Security and Privacy](./account_basics/216108867-security-and-privacy.md)
 * [Other support options](./account_basics/220979788-other-support-options.md)
 * [Uninstalling Nylas Mail](./account_basics/216837327-uninstalling-nylas-mail.md)
+
 
 ## Troubleshooting
 
@@ -41,8 +42,8 @@
 
 * [Nylas Mail 2.0 Release FAQ](./getting_started/115005574208-nylas-mail-20-release-faq.md)
 * [Nylas Mail Quick Start Guide](./getting_started/220979128-nylas-mail-quick-start-guide.md)
-* \[Custom Folder Mappings\]\(./getting\_started/custom-folder-mappings.md
-  \)
+* [Custom Folder Mappings](./getting_started/custom-folder-mappings.md
+  )
 * [Choose Nylas Mail as the default mail client on Windows](./getting_started/229277648-choose-nylas-mail-as-the-default-mail-client-on-windows.md)
 * [Tracking and notifications](./getting_started/221042967-tracking-and-notifications.md)
 * [Using quick reply templates](./getting_started/221043107-using-quick-reply-templates.md)
@@ -105,6 +106,3 @@
 * [Will Nylas Mail support "Categories" from Gmail or "Bundles" from Google Inbox?](./misc/216123037-will-nylas-mail-support-categories-from-gmail-or-bundles-from-google-inbox.md)
 * [How do I increase the font size in Nylas Mail?](./misc/219130788-how-do-i-increase-the-font-size-in-nylas-mail.md)
 * [Can I create or modify contacts through Nylas Mail?](./misc/216119397-can-i-create-or-modify-contacts-through-nylas-mail.md)
-
-
-
