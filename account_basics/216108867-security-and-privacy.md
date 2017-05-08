@@ -1,5 +1,3 @@
-<div id="container">
-
 # Security and privacy
 
 Security and privacy are extremely important to us. We do not sell user data or provide advertisements based on email information. You can learn about all the ways we protect and secure data here, as well as request a whitepaper that describes our security architecture in detail.
@@ -8,13 +6,13 @@ N1 supports two-factor authentication out of the box for Gmail and Google apps a
 
 Here's how to do it for some major email providers.
 
-<span class="wysiwyg-font-size-large">iCloud</span>
+iCloud
 
 1.  Go to [https://appleid.apple.com/](https://appleid.apple.com/)
 2.  Click "Security," then "Edit." Create an app password. This is the password you should use with N1.
 3.  In N1, connect an iCloud account and use this password instead of your regular password when prompted.
 
-<span class="wysiwyg-font-size-large">Office365</span>
+Office365
 
 1.  Visit [https://account.activedirectory.windowsazure.com/AppPasswords.aspx](https://account.activedirectory.windowsazure.com/AppPasswords.aspx) and log in to your account if prompted.
 2.  Click "create" to create a new app password.
@@ -22,4 +20,4 @@ Here's how to do it for some major email providers.
 4.  Click "Copy password to clipboard."
 5.  In N1, connect an Exchange account and use this password instead of your regular password when prompted.
 
-</div>
+

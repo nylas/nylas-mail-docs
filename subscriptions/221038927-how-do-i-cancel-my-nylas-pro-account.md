@@ -1,5 +1,3 @@
-<div id="container">
-
 # How do I cancel my Nylas Pro account?
 
 We’re sorry to see you go!
@@ -10,4 +8,4 @@ Click “Manage subscription” at the bottom and then click “Cancel subscript
 
 ![](./208359408-Screen_Shot_2016-06-15_at_1.52.00_PM.png)
 
-</div>
+

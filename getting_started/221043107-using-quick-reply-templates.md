@@ -1,5 +1,3 @@
-<div id="container">
-
 # Using quick reply templates
 
 Go to Preferences > Quick Replies to create templates you can use to save time when sending messages.
@@ -10,4 +8,4 @@ To use a saved template, open a new message and click the Templates icon at the 
 
 ![](./208434067-quick_replies.gif)
 
-</div>
+

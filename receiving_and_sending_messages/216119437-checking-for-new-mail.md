@@ -1,5 +1,3 @@
-<div id="container">
-
 # Checking for new mail
 
 Nylas Mail continuously syncs with the mail server, so messages appear as soon as they’re available on the server. Nylas Mail will automatically reconnect and sync after being disconnected.
@@ -10,4 +8,4 @@ We are looking into ways of improving offline status indicators in the future so
 
 ![](./208505227-offline_alert.png)
 
-</div>
+

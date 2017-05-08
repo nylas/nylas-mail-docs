@@ -1,5 +1,3 @@
-<div id="container">
-
 # Customizing your preferences
 
 Visit Nylas N1 > Preferences to configure your settings and interface.
@@ -18,4 +16,4 @@ Within Preferences, you can:
 *   Create and edit [quick reply templates](/hc/en-us/articles/221043107-Using-quick-reply-templates)
 *   Activate and deactivate [plugins](/hc/en-us/articles/221043467-Activating-plugins)
 
-</div>
+

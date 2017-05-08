@@ -1,5 +1,3 @@
-<div id="container">
-
 # Moving messages
 
 You can move messages into a different folder in two ways:
@@ -8,4 +6,4 @@ You can move messages into a different folder in two ways:
 
 2.  **While reading a message**, click the folders icon and choose the target folder.
 
-</div>
+

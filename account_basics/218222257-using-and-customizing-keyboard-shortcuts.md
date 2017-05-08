@@ -1,5 +1,3 @@
-<div id="container">
-
 # Using and customizing keyboard shortcuts
 
 N1 comes pre-loaded with several common keyboard shortcut configurations. Go to Preferences > Shortcuts to change the set it uses.
@@ -24,4 +22,4 @@ Any entries you add to your own "~/.nylas/keymap.json" file will override the de
 
 Take careful note that in the examples, keyboard shortcuts are scoped under "body:" or "'body *[contenteditable].contenteditable':". You must also scope your custom keyboard shortcuts under the appropriate heading (see examples).
 
-</div>
+

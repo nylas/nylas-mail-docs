@@ -1,5 +1,3 @@
-<div id="container">
-
 # Archiving messages
 
 You can archive a message directly from the inbox in two ways:
@@ -10,4 +8,4 @@ You can archive a message directly from the inbox in two ways:
 
 ![](./208514128-swipe_right_to_archive.gif)
 
-</div>
+

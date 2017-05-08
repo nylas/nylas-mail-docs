@@ -1,5 +1,3 @@
-<div id="container">
-
 # Translating messages
 
 Nylas Mail currently supports automated translation of messages written in English into Spanish, Russian, simplified Chinese, French, and German using the Yandex Translation API.
@@ -14,4 +12,4 @@ The translation plugin will translate the body of a single email and the signa
 
 ![](./209916168-translation.gif)
 
-</div>
+

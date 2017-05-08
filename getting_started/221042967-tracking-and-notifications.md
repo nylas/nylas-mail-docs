@@ -1,5 +1,3 @@
-<div id="container">
-
 # Tracking and notifications
 
 To enable link tracking for a message, click the Link Tracking icon at the bottom of your message.
@@ -12,4 +10,4 @@ When messages you have tracked are opened or clicked, notifications will appear 
 
 ![](./208414088-activity_tracker.gif)
 
-</div>
+

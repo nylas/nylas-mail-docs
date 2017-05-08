@@ -1,5 +1,3 @@
-<div id="container">
-
 # Managing your inbox with mail rules
 
 Set up and manage mail rules at Preferences > Mail Rules.
@@ -12,4 +10,4 @@ To set up a new mail rule, define the conditions you want to use to select messa
 
 By default, mail rules are applied to incoming mail as it arrives. If you’d like to apply a new rule to your entire inbox immediately after you create it, you can click “Process entire inbox.” This processing may take some time depending on the size of your inbox.
 
-</div>
+

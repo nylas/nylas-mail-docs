@@ -1,5 +1,3 @@
-<div id="container">
-
 # How much does Nylas cost?
 
 Nylas Mail is free!  
@@ -8,4 +6,4 @@ Nylas Pro is a different application and has a subscription.  Nylas Pro uses th
 
 In the future, we’ll also offer a team-oriented edition of Nylas with enhanced features for collaboration. To learn more and join the waiting list, visit [nylas.com/pricing](http://nylas.com/pricing).
 
-</div>
+

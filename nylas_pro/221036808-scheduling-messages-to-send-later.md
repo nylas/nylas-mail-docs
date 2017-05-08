@@ -1,5 +1,3 @@
-<div id="container">
-
 # Snoozing messages
 
 There are three ways to snooze a message.
@@ -16,4 +14,4 @@ There are three ways to snooze a message.
 
 ![](https://support.nylas.com/hc/en-us/article_attachments/208405288/snooze_from_message.png)
 
-</div>
+

@@ -1,5 +1,3 @@
-<div id="container">
-
 # Creating signatures
 
 To manage your signatures, go to Preferences > Signatures.
@@ -14,4 +12,4 @@ To add images to your signature, you need to upload the images to the web and ad
 
 <img src="https://dl.dropboxusercontent.com/u/4803975/me.png" width="50" height="50"/> 
 
-</div>
+

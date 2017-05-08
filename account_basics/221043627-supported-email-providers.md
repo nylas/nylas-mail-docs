@@ -1,5 +1,3 @@
-<div id="container">
-
 # Supported email providers
 
 Nylas Mail supports the largest email providers. Supported services include:
@@ -16,4 +14,4 @@ Nylas Pro also adds support for Microsoft Exchange.  
 
 Nylas Mail does not support connecting to accounts via POP / POP3\. The vast majority of mail providers that support POP3 also support the newer, better IMAP standard. 
 
-</div>
+

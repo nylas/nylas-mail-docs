@@ -1,5 +1,3 @@
-<div id="container">
-
 # Authorizing use with Outlook.com, hotmail.com, or live.com
 
 To add your Outlook.com, hotmail.com, or live.com email address to Nylas Mail, please select the Office 365 option from 'Add Account' and enter in your email address and password for your account.
@@ -14,4 +12,4 @@ In some cases, Microsoft will tell Nylas Mail that you entered an incorrect pas
 4.  Go back to Nylas Mail and re-enter your email address and password.
 5.  Nylas Mail should now be able to load your account.
 
-</div>
+

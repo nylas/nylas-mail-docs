@@ -1,16 +1,14 @@
-<div id="container">
-
 # PGP Nylas Mail Plugin: Getting Started Guide
 
 The Nylas PGP plugin for Nylas Pro (formerly N1) is a simple tool for end-to-end encryption and decryption of email message bodies. It's designed to make PGP encryption easy and intuitive and is integrated closely with Keybase for public key importing.
 
-<span class="wysiwyg-font-size-large">Enabling the PGP Plugin</span>
+Enabling the PGP Plugin
 
 The Nylas PGP plugin is disabled by default. To enable it, open Nylas Mail's preferences, select the "Plugins" tab, find the "Encryption" plugin, and flip the toggle. You should now see the small lock icon in your composer window.
 
 ![](./208258868-Screen_Shot_2016-06-14_at_4.06.11_PM.png)
 
-<span class="wysiwyg-font-size-large">Sending an encrypted message</span>
+Sending an encrypted message
 
 Get started with the PGP plugin by sending your first encrypted message from Nylas Mail. First, open a new message composer. Add recipients and draft your message. When you're ready to send your message, hit the Encrypt button at the bottom of the composer (it looks like a little lock).
 
@@ -22,7 +20,7 @@ If you don't have a Keybase account, no worries—you can get an invite on the E
 
 ![](./208213688-encrypted.png)
 
-<span class="wysiwyg-font-size-large">Decrypting received messages</span>
+Decrypting received messages
 
 Before you can decrypt any messages encrypted with your public key, you must first import the associated private key into Nylas Mail. The first step is getting your private key. If you saved your private key to Keybase, you can export it by clicking the "edit" button under your username, next to the key symbol and the associated key fingerprint. If it's stored in GPG, you can export it to file with `gpg --export-secret-key -a "User Name" > private.key`. Regardless of where your key came from, once you have it, you can head to the Encryption Preferences page and use one of the "Add a PGP Key" buttons to import it into N1.
 
@@ -32,7 +30,7 @@ When you receive a message with an encrypted block, Nylas Mail should automatica
 
 If, instead of an encrypted block, your message has an `encrypted.asc` attachment, execute the exact same process, but with the Decrypt Attachment button instead of the Decrypt button. You can save the decrypted contents of `encrypted.asc` wherever you like, to be opened later.
 
-<span class="wysiwyg-font-size-large">Key management</span>
+Key management
 
 PGP keys in Nylas Mail's Keybase plugin are managed on the Encryption tab of Nylas Mail's Preferences page.
 
@@ -40,7 +38,7 @@ PGP keys in Nylas Mail's Keybase plugin are managed on the Encryption tab of Nyl
 
 From this page, you can import PGP keys from file, paste them in manually, search Keybase by name and username, associate new emails with existing keys, export keys, delete keys, and even generate new PGP keypairs using Keybase's kbpgp library.
 
-<span class="wysiwyg-font-size-large">FAQ</span> 
+FAQ 
 
 **Can I sign messages with Nylas Mail?**
 
@@ -68,4 +66,4 @@ By and large, the unencrypted contents of your messages never touch Nylas server
 
 Email [support@nylas.com](mailto:support@nylas.com) with any further questions about Nylas Mail's Keybase plugin!
 
-</div>
+

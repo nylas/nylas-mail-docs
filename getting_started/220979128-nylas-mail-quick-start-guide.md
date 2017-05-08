@@ -1,10 +1,8 @@
-<div id="container">
-
 # Nylas Mail Quick Start Guide
 
 Welcome to Nylas Mail! Here’s how to get started. 
 
-<span class="wysiwyg-font-size-large">**Set up an email account**</span>
+**Set up an email account**
 
 First, go to Preferences > Accounts to set up your email. You can [set up multiple accounts](/hc/en-us/articles/221043647-Setting-up-multiple-accounts) from [multiple email providers](/hc/en-us/articles/221043627-Supported-email-providers).
 
@@ -12,7 +10,7 @@ First, go to Preferences > Accounts to set up your email. You can [set up multip
 
 When you set up an account, it can take anywhere from a few minutes to several hours to build a complete cache of your mailbox. However, Nylas Mail is designed to pull recent messages first, so you should be able to get going quickly. Total sync time will be dependent on factors like total number of messages, your network bandwidth, processing power, and your email provider's throttling.
 
-<span class="wysiwyg-font-size-large">**Customize your inbox view**</span>
+**Customize your inbox view**
 
 You can customize your inbox experience in a variety of ways:
 
@@ -22,7 +20,7 @@ You can customize your inbox experience in a variety of ways:
 *   Configure your keyboard shortcuts
 *   [Activate plugins](/hc/en-us/articles/221043467-Activating-plugins) that add functionality
 
-<span class="wysiwyg-font-size-large">**Explore advanced features**</span>
+**Explore advanced features**
 
 Nylas Mail includes several powerful capabilities to help you manage your email:
 
@@ -31,4 +29,4 @@ Nylas Mail includes several powerful capabilities to help you manage your email:
 *   Open and click tracking so you can see when recipients engage with your messages
 *   [**Quick replies templates**](/hc/en-us/articles/221043107-Using-quick-reply-templates) that save you time when sending common messages
 
-</div>
+

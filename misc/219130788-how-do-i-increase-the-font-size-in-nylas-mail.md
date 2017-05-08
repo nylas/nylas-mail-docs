@@ -1,5 +1,3 @@
-<div id="container">
-
 # How do I increase the font size in Nylas Mail?
 
 Nylas Mail doesn't officially support changing the font size. However, for some displays and Linux machines, it's necessary to increase the scale of the UI to make Nylas Mail more usable.
@@ -42,4 +40,4 @@ font-size: 16px;
 color: [#000000](/agent/tickets/000000);
 font-size: 16px;
 
-</div>
+

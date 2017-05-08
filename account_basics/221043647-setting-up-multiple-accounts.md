@@ -1,5 +1,3 @@
-<div id="container">
-
 # Setting up multiple accounts
 
 You can set up as many email accounts as you like within N1\. Go to Preferences > Accounts and click “+” at the bottom of the accounts list.
@@ -8,4 +6,4 @@ You can set up as many email accounts as you like within N1\. Go to Preferences 
 
 Once you complete the setup process, your messages, folders, and labels will be imported.
 
-</div>
+

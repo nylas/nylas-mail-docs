@@ -1,5 +1,3 @@
-<div id="container">
-
 # How much do the Nylas Cloud APIs cost?
 
 You can start building using the Nylas Cloud APIs immediately! We don't require a credit card to try out our platform. Get started by browsing our extensive [documentation](https://www.nylas.com/docs).
@@ -10,4 +8,4 @@ Each email address you sync through Nylas is considered one account. For example
 
 If you exceed the volume specified in your pricing agreement, we do not automatically stop syncing accounts or throttle service in any way. Exceeding your plan will result in either a prorated overage charge based on your plan's current cost per account or an automatic plan upgrade—whichever is less expensive for you.
 
-</div>
+

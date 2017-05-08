@@ -1,5 +1,3 @@
-<div id="container">
-
 # Using mail merge to send customized mass emails
 
 Mail merge lets you create a message template, then automatically fill in variables to make each message personal.
@@ -22,4 +20,4 @@ In order to respect the limits of the majority of email providers, Nylas will 
 
 ![](./208567987-merge.gif) 
 
-</div>
+

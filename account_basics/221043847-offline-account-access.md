@@ -1,5 +1,3 @@
-<div id="container">
-
 # Offline account access
 
 Nylas Mail allows you to read, compose, and schedule messages as usual while offline.
@@ -14,4 +12,4 @@ Your ability to see images and attachments while offline depends on how you’ve
 
 Messages you send while offline will be queued and sent when you reconnect to the internet.
 
-</div>
+
